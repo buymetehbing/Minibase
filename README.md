@@ -1,7 +1,5 @@
 # INFR11199 Assignment
 
-## Shortcuts to Key Explanations
-
 [Logic Behind Extracting Join Conditions](#logic-behind-extracting-join-conditions)<br>
 [Optimisation Rules](#optimisation-rules)
 
